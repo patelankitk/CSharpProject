@@ -1,0 +1,12 @@
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe.config
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\bin\Debug\BookLibrary.exe
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\bin\Debug\BookLibrary.pdb
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Form1.resources
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Properties.Resources.resources
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csproj.GenerateResource.Cache
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\obj\Debug\BookLibrary.exe
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\bin\Debug\books.mdf
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\bin\Debug\books_log.ldf
+C:\Users\Ankit\Documents\GitHub\CSharp\BookLibrary\BookLibrary\obj\Debug\BookLibrary.Form2.resources
